@@ -15,4 +15,4 @@ By running your csv file of hiking data through the script, you will generate th
 
 ![3D Scatter Plot](https://github.com/SoManyDistractions/alltrails_hike_analysis_algorithm/blob/main/Example/3D%20Scatterplot.png?raw=true)
 
-1[Google Earth View](https://github.com/SoManyDistractions/alltrails_hike_analysis_algorithm/blob/main/Example/Google%20Earth.png?raw=true)
+![Google Earth View](https://github.com/SoManyDistractions/alltrails_hike_analysis_algorithm/blob/main/Example/Google%20Earth.png?raw=true)
